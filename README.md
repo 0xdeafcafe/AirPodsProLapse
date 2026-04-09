@@ -2,11 +2,11 @@
 
 ![screenshot](assets/screenie.webp)
 
-headphones lie to you. they pipe left into your left ear and right into your right ear and call it a day. real speakers don't work like that — your left ear hears a bit of the right speaker too, slightly delayed, slightly muffled by your head. that's what makes music sound like it's *in a room* instead of *inside what your mum apparently calls your unusually thick head*.
+virgin headphones decive you, piping left into your left ear and right into your right ear like a soy beta. the chad speaker doesnt settle - your left ear hears a bit of the right speaker too, slightly delayed, slightly muffled by your head. that's what makes bangers sound like they're *in a room* instead of *inside what your mum calls your unusually thick head*.
 
-this fixes that. it sits between your system audio and your headphones, blending a little of each channel into the other. simple mode just mixes. realistic mode adds a tiny delay and a low-pass filter to fake the head shadow thing. you can tweak it all live in the terminal while music plays.
+i fix that. i sits between your system audio and your headphones, sensually massaging a little of each channel into the other. simple mode just mixes. realistic mode adds a tiny delay and a low-pass filter to fake the head shadow thing. you can tweak it all live in the terminal while music plays.
 
-designed in my head, built in claude. loved by audiophiles and hopefully not the other kind of phile.
+designed in my head, built by claudus. loved by audiophiles and hopefully not the other kind of phile.
 
 ## you need
 
